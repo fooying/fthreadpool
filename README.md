@@ -3,7 +3,7 @@
 by Fooying 2017/06/16
 
 
-* 基于http://chrisarndt.de/projects/threadpool/线程池模块修改
+* 基于http://chrisarndt.de/projects/threadpool/ 线程池模块修改
 
 #### 修改功能：
 1. 多线程增加可kill方法
